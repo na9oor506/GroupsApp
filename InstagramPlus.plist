@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://dl.dropboxusercontent.com/s/rx1xj8ahluwos6e/Instagram-Plus.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.GroupsApp.Instagram</string>
+				<key>bundle-version</key>
+				<string>9.5.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Instagram-9.5.2 ++ 1.7r-3 GroupsApp 2016</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
