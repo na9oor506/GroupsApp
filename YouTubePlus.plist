@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.YouTube</string>
 				<key>bundle-version</key>
-				<string>11.39.10</string>
+				<string>11.41.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YouTube-11.39.10 ++ 1.3r-53 GroupsApp 2016</string>
+				<string>YouTube-11.41.9 ++ 1.3r-53 GroupsApp 2016</string>
 			</dict>
 		</dict>
 	</array>
