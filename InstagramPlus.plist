@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.Instagram</string>
 				<key>bundle-version</key>
-				<string>9.7.0</string>
+				<string>10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Instagram-9.7.0 ++ 1.7r-26 GroupsApp 2016</string>
+				<string>Instagram-10.0 ++ 1.7r-29 GroupsApp 2016</string>
 			</dict>
 		</dict>
 	</array>
