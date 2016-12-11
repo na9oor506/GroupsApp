@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GroupsApp.BobbyMovie</string>
+				<string>com.GroupsApp.AdBlock</string>
 				<key>bundle-version</key>
 				<string>2.5.6</string>
 				<key>kind</key>
