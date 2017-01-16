@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.Kodi</string>
 				<key>bundle-version</key>
-				<string>17.0.b5</string>
+				<string>17.0.rc3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kodi 17.0.b5 GroupsApp 2016</string>
+				<string>Kodi 17.0.rc3 GroupsApp 2016</string>
 			</dict>
 		</dict>
 	</array>
