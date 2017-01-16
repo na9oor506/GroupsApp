@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.Timestamp</string>
 				<key>bundle-version</key>
-				<string>1.26</string>
+				<string>1.27</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>TimestampCameraPro-1.26  GroupsApp 2016</string>
+				<string>TimestampCameraPro-1.27  GroupsApp 2016</string>
 			</dict>
 		</dict>
 	</array>
