@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.CinemaBox</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CinemaBox-1.1  GroupsApp 2016</string>
+				<string>CinemaBox-1.0 No Ads  GroupsApp 2016</string>
 			</dict>
 		</dict>
 	</array>
