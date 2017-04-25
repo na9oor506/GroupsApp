@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/7jyx05cmguqssdz/Snapchat-ph.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/7jyx05cmguqssdz/Snapchat-SC.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GroupsApp.Snapchatph</string>
+				<string>com.GroupsApp.SnapchatSC</string>
 				<key>bundle-version</key>
-				<string>10.6.1</string>
+				<string>10.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Snapchat-10.6.1 PH GroupsApp 2017</string>
+				<string>Snapchat-10.7 SC GroupsApp 2017</string>
 			</dict>
 		</dict>
 	</array>
