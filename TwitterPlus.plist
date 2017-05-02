@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.Twitter</string>
 				<key>bundle-version</key>
-				<string>6.76</string>
+				<string>6.77</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Twitter-6.76 ++ 1.2r-48 GroupsApp 2017</string>
+				<string>Twitter-6.77 ++ 1.2r-48 GroupsApp 2017</string>
 			</dict>
 		</dict>
 	</array>
