@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.GroupsApp.SnapchatSC</string>
 				<key>bundle-version</key>
-				<string>10.7.2</string>
+				<string>10.8.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Snapchat-10.7.2 SC-1.0.3-7 GroupsApp 2017</string>
+				<string>Snapchat-10.8.0 SC-1.0.3-9 GroupsApp 2017</string>
 			</dict>
 		</dict>
 	</array>
