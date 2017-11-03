@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GroupsApp.YouTube</string>
+				<string>com.google.ios.youtube</string>
 				<key>bundle-version</key>
-				<string>12.11</string>
+				<string>12.42.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YouTube-12.11 ++ 1.4r-29 GroupsApp 2017</string>
+				<string>YouTube</string>
 			</dict>
 		</dict>
 	</array>
