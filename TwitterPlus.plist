@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GroupsApp.Twitter</string>
+				<string>com.atebits.Tweetie2</string>
 				<key>bundle-version</key>
-				<string>6.77</string>
+				<string>7.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Twitter-6.77 ++ 1.2r-51 GroupsApp 2017</string>
+				<string>Twitter.v7.10_v1.2r-63</string>
 			</dict>
 		</dict>
 	</array>
