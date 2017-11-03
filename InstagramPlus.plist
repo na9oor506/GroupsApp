@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GroupsApp.Instagram</string>
+				<string>com.burbn.instagram</string>
 				<key>bundle-version</key>
-				<string>10.19</string>
+				<string>21.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Instagram-10.19 ++ 1.7r-188 GroupsApp 2017</string>
+				<string>Instagram</string>
 			</dict>
 		</dict>
 	</array>
